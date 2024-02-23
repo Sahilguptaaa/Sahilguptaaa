@@ -1,4 +1,4 @@
-![logo](https://github.com/Sahilguptaaa/Sahilguptaaa/blob/main/mnnit%20building.png)
+![logo](https://github.com/Sahilguptaaa/Sahilguptaaa/blob/main/college.jpg)
 <h1 align="center">Hi 👋, I'm Sahil Gupta</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9524n6zync2836ciodt41anhquzztjkv65os9ubbv1h&ep=v1_gifs_search&rid=200w.gif&ct=g"
